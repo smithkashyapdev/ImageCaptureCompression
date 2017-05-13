@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GallaryCaptureLibrary</string>
+
+    <string name="text1">Camera</string>
+
+    <string name="text2">Single Choice</string>
+
+    <string name="text3">Multiple Choice</string>
+
+    <string name="text4">Cancel</string>
+
+</resources>

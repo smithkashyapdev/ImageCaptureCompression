@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hi\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_073cbc765e4f8922aaeaa7988ac41997a8eb7775\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_98abe905b7d953981830a4997b01df937da585f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_565d275f1ced45629cd0ff6114e3646d8fb1cae0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_74230e6423054540bc2c861a63280b2b738a37b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_82810b82d975c492a59a75d7d2d05967e70bab2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_7643dcc1eac3c0287e22adc1cb149c303e62f1f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_03cdadf2b48e32307c2350a93573a996721118eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_96e9eecd000bea33ec1b8fd86f32b277e441b53e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hi\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_6eba8e5681951d89a5d1fa1a35a955370bce8c79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="afe657cd14925f029d60213bf31b14e32884944d">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bd8536bf6d437f44c9b401532e9c15ad8eef1ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_6756182eda7d8a271029221b40423726b87da18e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_71341498f8d7395c043256d94b3996014beea678\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_42433f246eb85f4eb6f37e3730ab5086fa92f763\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\Office_SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_92bc09c453b36ce49f7ca6beb6e97fea808d66eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_66641c443645bf8a7f741776b36f92f2db4364dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_061193c9dd97fd3b9bcafd966ca6fba57d9c5603\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_f52fd91db996641e2de77f656ec9f61df2c5e348\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0750dc5eb02a7483c1032bb684d5be203e1cc5cb">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_92d565fa10330c17d21c4b6cd32b0c138991eeae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\Android_Work\GallaryCaptureLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_1fc0c1f37410d8f375735b1d293f3ca97b6859e5\classes.dex" />
+    </item>
+
+</items>
